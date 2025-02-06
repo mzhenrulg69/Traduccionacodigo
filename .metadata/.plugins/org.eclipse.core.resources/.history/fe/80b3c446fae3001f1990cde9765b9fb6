@@ -1,0 +1,7 @@
+package ejercicioHotel;
+
+public class Suit extends Habitacion {
+	private boolean bañera;
+	private boolean sauna;
+	private boolean mirador;
+}

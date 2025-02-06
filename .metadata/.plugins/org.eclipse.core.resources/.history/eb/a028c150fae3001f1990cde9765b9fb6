@@ -1,0 +1,6 @@
+package ejercicioHotel;
+
+public class Doble extends Habitacion {
+	private boolean matrimonio;
+	
+}
